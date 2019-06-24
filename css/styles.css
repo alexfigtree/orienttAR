@@ -71,9 +71,29 @@ div.contact a:hover {
   color: rgb(74, 159, 236);
 }
 
-
 #connect {
   background-color: black;
+}
+
+.about-subheader {
+  text-align: center;
+  float: right;
+  margin-top: -33px;
+  margin-right: 60px;
+  font-size: 28px;
+}
+
+.about-link {
+  text-decoration: none !important;
+  text-align: center !important;
+  color: rgb(74, 159, 236);
+  font-family: monospace;
+  margin-left: 40px;
+
+}
+
+.about-link:hover {
+  color: white;
 }
 
 
@@ -92,5 +112,8 @@ div.contact a:hover {
   }
   .contact {
     margin-top: 70px;
+  }
+  .about-subheader {
+    display: none;
   }
 }
