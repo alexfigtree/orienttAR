@@ -1,0 +1,15 @@
+{
+    "name": "orienttAR",
+    "version": "0.0.1",
+    "author": "Alex Higuera <alex@orienttar.com>",
+    "description": "Neurotech and AR for the Space Age",
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10"
+    },
+    "scripts": {
+    },
+    "dependencies": {
+        "muse-js": "~3.1.0"
+    }
+}
